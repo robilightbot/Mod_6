@@ -1,2 +1,2 @@
 # Mod_6
-repo is for module 6 assignment
+Mod_6 is for module 6 / Final assignment and includes an uploaded file
